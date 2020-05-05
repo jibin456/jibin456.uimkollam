@@ -1,7 +1,13 @@
+.head
+{
+   background-color: #21293d;
+      font-family: Georgia, serif;
+}
+
 .carousel-inner {
-  width:95%;
+
   height:80%;
-    margin: auto;
+    
 }
 #home-section
 {
